@@ -77,23 +77,28 @@ section{
     background-color: rgb(0, 0, 0);
     text-align: center;
 }
-h3{
+.h3{
+
     background-color: rgb(0, 0, 2);
     font-size: 40px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
-    margin-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 50px;
+    padding-top: 50px;
+    font-weight: 500px;
 }
 
 .footer{
-    display: inline-block;
+    
+    font-size: 11px;
 }
 a{
     text-decoration: none;
 color: white;
 }
 .contact{
-    font-size: 12px;
+    font-size: 14px;
     font-family: Arial, Helvetica,
      sans-serif;
      padding-bottom: 5px;
+     text-decoration: italic;
 }
